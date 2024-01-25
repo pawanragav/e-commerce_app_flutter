@@ -3,6 +3,6 @@ ShoeFiesta, a dynamic e-commerce Flutter app that revolutionizes your shoe shopp
 # Screenshot of ShoeFiesta
 <img src="ss/S1.png" width="230" height="500">
 #
-<img src="ss/S2.png" width="200" height="500">
+<img src="ss/S2.png" width="230" height="500">
 #
-<img src="ss/S3.png" width="200" height="500">
+<img src="ss/S3.png" width="230" height="500">
